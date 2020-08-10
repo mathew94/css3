@@ -1,0 +1,16 @@
+.box{
+    width: 400px;
+    height: 200px;
+    border: 2px solid rgb(3, 68, 3);
+    overflow: scroll;
+}
+.box2{
+    border: 4px solid peru;
+    width: 400px;
+    height: 200px;
+    
+}
+.image .logo{
+    height: 100px;
+    width: 100px;
+}
